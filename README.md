@@ -35,7 +35,7 @@
 
 
 
-![](images/Payment_Band_Analysis.png)
+![](images/Customer_Analysis.png)
 
 
 &nbsp;
