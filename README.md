@@ -1,2 +1,43 @@
 # Segmenting_Bank_Customers
-Analysis of 6.3M+ payment transactions identifying fraud concentration across payment value bands, built in SQL
+
+## Overview
+
+
+&nbsp;
+
+
+## Why This Project Matters
+
+
+&nbsp;
+
+
+## Dataset
+
+
+&nbsp;
+
+
+## Methodology
+
+**1) Set Up the Database:** 
+
+
+**2) Import the Data:** 
+
+
+**3) Segment and Analyse:** 
+
+
+&nbsp;
+
+**Table 1:**
+
+
+
+![](images/Payment_Band_Analysis.png)
+
+
+&nbsp;
+
+
