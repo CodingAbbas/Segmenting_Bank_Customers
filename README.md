@@ -48,8 +48,7 @@ Segments every customer into one of four spending bands to analyze customer valu
 &nbsp;
 
 
-The Medium-tier customers (£1k - £10k) represent just 32.77% of the customer base, yet generate 46.34% of all transaction value, making this segment the primary revenue driver. This concentration of value in a relatively small customer group is the kind of pattern a business team would want surfaced early to prioritise retention efforts, rather than treating every customer segment as equally valuable.
+The Medium-tier customers (£1k - £10k) represent just 32.77% of the customer base, yet generate 46.34% of all transaction value, making this segment the primary revenue driver. 
+This concentration of value in a relatively small customer group is the kind of pattern a business team would want surfaced early to prioritise retention efforts, rather than treating every customer segment as equally valuable.
 
 The analysis reveals that Low-tier customers (Under £1k) make up 64% of the customer base but contribute only 11.45% of revenue, while High and Premium tiers combined account for just 3% of customers but drive 42.21% of value. This skew towards medium and high-value customers demonstrates healthy revenue diversification and highlights where strategic customer relationship investments would yield the greatest return.
-
-If the bank were to improve Medium-tier retention by even 5%, with average customer lifetime value at £2,640 per tier member, the business would unlock approximately £38M in additional annual revenue—demonstrating the tangible impact of customer value segmentation on business strategy.
